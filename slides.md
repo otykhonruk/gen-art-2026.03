@@ -54,6 +54,37 @@ function draw() {
 ```
 
 ---
+layout: two-cols
+---
+
+# sketch-00 live
+
+<iframe
+  src="./sketch-00/index.html"
+  style="width: 100%; height: 440px; border: 0; background: white;"
+/>
+
+::right::
+
+```js
+function setup() {
+  createCanvas(400, 400)
+  noLoop()
+}
+
+function draw() {
+  background(240)
+  strokeWeight(2)
+
+  for (let i = 0; i < 100; i++) {
+    const x = random(width)
+    const y = random(height)
+    point(x, y)
+  }
+}
+```
+
+---
 
 # Нотатки
 
