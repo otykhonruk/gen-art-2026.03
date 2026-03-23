@@ -1,8 +1,8 @@
 ---
 theme: default
-title: Generative Art Workshop
+title: Генеративне Мистецтво 2026.03
 info: |
-  Minimal Slidev deck for a p5.js workshop.
+  Воркшоп із генеративного мистецтва, березень 2026.
 class: text-center
 drawings:
   persist: false
@@ -10,12 +10,68 @@ transition: slide-left
 mdc: true
 ---
 
-# Generative Art Workshop
+<style>
+.demo-layout {
+  column-gap: 1.5rem;
+}
+
+.demo-layout .col-left,
+.demo-layout .col-right {
+  display: flex;
+  flex-direction: column;
+  min-height: 31rem;
+  padding: 1rem;
+  border-radius: 1.25rem;
+}
+
+.demo-layout .col-left {
+  background: #161616;
+}
+
+.demo-layout .col-right {
+  background: #111111;
+}
+
+.demo-layout .demo-label {
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #a3a3a3;
+}
+
+.demo-layout .col-left pre,
+.demo-layout .col-left .shiki {
+  flex: 1;
+  min-height: 0;
+  margin: 0;
+  overflow: auto;
+  border-radius: 0.9rem;
+}
+
+.demo-layout .col-right .demo-frame {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  border: 0;
+  border-radius: 0.9rem;
+  background: #f3f3f3;
+}
+</style>
+
+# Воркшоп із генеративного мистецтва
 
 `p5.js` + code + live explanation
 
 ---
 layout: two-cols
+---
+Про мене:
+25+ років у розробці.
+
+https://instagram.com/otykhonruk
+
 ---
 
 # План
@@ -54,17 +110,15 @@ function draw() {
 ```
 
 ---
-layout: two-cols
+layout: two-cols-header
+layoutClass: demo-layout
 ---
 
-# sketch-00 live
+# sketch-00
 
-<iframe
-  src="./sketch-00/index.html"
-  style="width: 100%; height: 440px; border: 0; background: white;"
-/>
+::left::
 
-::right::
+<div class="demo-label">Code</div>
 
 ```js
 function setup() {
@@ -84,6 +138,12 @@ function draw() {
 }
 ```
 
+::right::
+
+<div class="demo-label">Output</div>
+
+<iframe class="demo-frame" src="./sketch-00/index.html"></iframe>
+
 ---
 
 # Нотатки
@@ -98,4 +158,4 @@ function draw() {
 
 1. Редагуй `slides.md`
 2. Додавай нові скетчі в окремі папки
-3. Коли буде потрібно, збереш HTML через `npm run slides:build`
+3. Коли буде потрібно, збереш HTML через `npm run build`
