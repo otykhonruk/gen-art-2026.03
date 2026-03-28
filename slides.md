@@ -57,7 +57,7 @@ layout: two-cols-header
 
 ---
 layout: image-right
-image: ./anni-albers-untitled.jpg
+image: /anni-albers-untitled.jpg
 ---
 
 ## Anni Albers (1899–1994)
@@ -71,7 +71,7 @@ image: ./anni-albers-untitled.jpg
 
 ---
 layout: image-right
-image: ./lewitt-wall-drawing-instruction.jpg
+image: /lewitt-wall-drawing-instruction.jpg
 ---
 
 ## Sol LeWitt (1928—2007)
@@ -85,7 +85,7 @@ image: ./lewitt-wall-drawing-instruction.jpg
 
 ---
 layout: image-right
-image: ./vera-molnar-1961-courtesy-of-galerie-oniris-rennes.jpg
+image: /vera-molnar-1961-courtesy-of-galerie-oniris-rennes.jpg
 ---
 
 ## Vera Molnár (1924-2023)
@@ -99,7 +99,7 @@ image: ./vera-molnar-1961-courtesy-of-galerie-oniris-rennes.jpg
 
 ---
 layout: image-right
-image: ./mohr-p62.jpg
+image: /mohr-p62.jpg
 ---
 
 ## Manfred Mohr (b. 1938)
@@ -111,8 +111,7 @@ image: ./mohr-p62.jpg
 
 ---
 layout: image-right
-image: ./john-baldessari_throwing-three-balls-in-the-air-to-get-a-straight-line-best-of-thirty-six-attempts_AID1160750.jpg
-backgrounSize: 10em 70%
+image: /john-baldessari_throwing-three-balls-in-the-air-to-get-a-straight-line-best-of-thirty-six-attempts_AID1160750.jpg
 ---
 
 ## John Baldessari
@@ -141,7 +140,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./wolfram-cellular-automata.svg
+image: /wolfram-cellular-automata.svg
 ---
 # Cellular automata
 
