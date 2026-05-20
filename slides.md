@@ -54,6 +54,12 @@ layout: two-cols-header
 - Випадковість і правила
 - Робота з кольором
 
+---
+layout: center
+---
+
+# "Докомп'ютерна" доба та початок генеративного мистецтва.
+
 
 ---
 layout: image-right
@@ -65,12 +71,13 @@ image: /anni-albers-untitled.jpg
 <br>
 
 - [Роботи @ MOMA](https://www.moma.org/artists/96-anni-albers)
-- Не generative artist, але приклад мислення через модуль, структуру, повтор і варіацію.
+- Приклад мислення через модуль, повтор і варіацію.
 
 
 
 ---
 layout: image-right
+
 image: /lewitt-wall-drawing-instruction.jpg
 ---
 
@@ -80,8 +87,18 @@ image: /lewitt-wall-drawing-instruction.jpg
      
 - [Серія "Wall Drawings"](https://massmoca.org/sol-lewitt/)  (з 1958)
 - Радикально змістив увагу з об’єкта на систему й інструкцію.
-- Його роботи добре показують, як правило, процедура і серія можуть бути повноцінною художньою формою.
+- Його роботи показують, як правило, процедура і серія можуть бути повноцінною художньою формою.
 
+---
+
+## John Baldessari (b. 1931)
+
+<br>
+
+
+- Робота [Throwing Three Balls in the Air to Get a Straight Line (Best of Thirty-Six Attempts)](https://artmuseum.princeton.edu/art/collections/objects/135589) (1973) використовує випадковість та повтор.
+
+![](/john-baldessari_throwing-three-balls-in-the-air-to-get-a-straight-line-best-of-thirty-six-attempts_AID1160750.jpg)
 
 ---
 layout: image-right
@@ -93,7 +110,7 @@ image: /vera-molnar-1961-courtesy-of-galerie-oniris-rennes.jpg
 <br>
 
 - Одна з ключових фігур раннього алгоритмічного мистецтва.
-- Працювала з варіацією, обмеженням, серійністю і мінімальним відхиленням як з повноцінним художнім матеріалом.
+- Працювала з варіацією, обмеженням, серійністю як з повноцінним художнім матеріалом.
 - Важлива як міст між модерністською абстракцією, системним мисленням і комп’ютерним мистецтвом.
 
 
@@ -105,22 +122,9 @@ image: /mohr-p62.jpg
 ## Manfred Mohr (b. 1938)
 
 - [Роботи у музеї Вікторії й Альберта](https://collections.vam.ac.uk/search/?id_person=A21694&page=1&page_size=15)
-- Один із найпослідовніших авторів у роботі з алгоритмом як автономною структурою.
-- Його практика показує, як строгі формальні системи можуть давати дуже багатий візуальний і концептуальний результат.
+- Почав працювати з алгоритмом, як з автономною структурою.
+- Його практика показує, як строгі формальні системи можуть давати візуальний і концептуальний результат.
 
-
----
-layout: image-right
-image: /john-baldessari_throwing-three-balls-in-the-air-to-get-a-straight-line-best-of-thirty-six-attempts_AID1160750.jpg
----
-
-## John Baldessari
-
-<br>
-
-
-- [Throwing Three Balls in the Air to Get a Straight Line (Best of Thirty-Six Attempts)](https://artmuseum.princeton.edu/art/collections/objects/135589) (1973)
-- перетворення абсурдного завдання на чітку художню процедуру.
 
 ---
 
@@ -128,114 +132,20 @@ image: /john-baldessari_throwing-three-balls-in-the-air-to-get-a-straight-line-b
 
 - У музиці споріднена лінія проходить через систему, повтор, тривалість, інструкцію і випадок.
 - John Cage: chance operations та indeterminacy.
-- Terry Riley, Steve Reich, Philip Glass: експериментальна та мінімалістична музики, заснована на системі та повторах.
+- Мінімалісти-експериментатори Terry Riley, Steve Reich, Philip Glass писали музику, засновану на системі та повторах.
 - Brian Eno, generative music
 
-
----
-layout: center
----
-
-# Приклади систем
-
----
-layout: image-right
-image: /wolfram-cellular-automata.svg
----
-# Cellular automata
-
-- [Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
-- Простий приклад, як складна поведінка може виникати з дуже локальних правил.
-- Вперше описав Stephen Wolfram у книзі "A New Kind of Science" (2002).
-
-
-
----
-
-# L-systems і рослини
-
-- `L-systems` (`Lindenmayer systems`) це формальна система правил для моделювання росту й розгалуження рослин.
-- Показують, як складна органічна форма може виростати з простого набору продукційних правил.
-- Przemyslaw Prusinkiewicz та Aristid Lindenmayer, "The Algorithmic Beauty of Plants" (1990)
-
----
-
-# Книжки
-
-- `Stephen Wolfram` — `A New Kind of Science`
-- `Przemyslaw Prusinkiewicz`, `Aristid Lindenmayer` — `The Algorithmic Beauty of Plants`
-- `Douglas Hofstadter` — `Gödel, Escher, Bach`
-- `Daniel Shiffman` — `The Nature of Code`
-
----
-
-# Від системи до авторської мови
-
-- Тут важлива лінія не “хто писав код”, а хто мислив через правило, серію, інструкцію, структуру і варіацію.
-- У сучасному generative art це вже збирається в зрілу авторську практику: довгі серії, впізнавана мова, концептуальна послідовність.
-
----
-
-# Jared Tarbell
-
-- Один із ранніх авторів, які показали, що generative art може мати впізнавану авторську мову, а не бути просто технічною демонстрацією.
-- Працює з роями, потоками, міськими структурами, щільністю, поведінкою великої кількості елементів.
-- Важливий як приклад того, як системне мислення переходить у візуальну поетику.
-
----
-
-# Tyler Hobbs
-
-[https://www.tylerxhobbs.com](https://www.tylerxhobbs.com)
-
-- Один із навідоміших сучасних генеративних митців із впізнаваним стилем
-- Працює переважно у long-form форматі.
-- Цікавий не тільки естетикою, а й дисципліною мислення: серія, параметричний простір, мова, що розвивається з проєкту в проєкт.
-- [Роботи](https://www.tylerxhobbs.com/works)
-
-
----
-
-# Manolo Gamboa Naon (manoloide)
-
-
-- Поєднує щедру візуальність, живописність із системною логікою.
-
-- [Велика колекція робіт на behance](https://www.behance.net/manoloide)
-
----
-
-# Kazumasa Teshigawara (qubibi)
-
-- Кінетична і алгоритмічна мова: прості елементи, з яких народжується складна, майже жива поведінка.
-- Важливий як приклад автора, у якого форма, рух і система зібрані в одну дуже цілісну практику.
-
----
-
-# Ryoji Ikeda
-
-- Data-driven інсталяції та проєкції з дуже впізнаваною мовою.
-- Міксує звук, дані, зображення і простор, але при цьому лишається дуже строгим формально.
-
-
----
-
-# Dmitri Cherniak
-
-- Один із найпереконливіших прикладів long-form generative practice, де серія працює як дослідження, а не як набір варіацій.
-- Сильний баланс між формальною строгістю, алгоритмічною ясністю і людською інтуїцією.
-- Добрий референс для розмови про те, як generative art може бути одночасно концептуальним, послідовним і дуже впізнаваним.
 
 ---
 
 # Інструменти і середовища
 
-- `Processing`: класичний sketchbook для visual coding; одна з головних точок входу в creative coding.
-- `p5.js`: web-версія цієї логіки; проста точка входу, браузер, онлайн-редактор, швидкий feedback loop.
+- `Processing`: класичний sketchbook для visual coding; традиційна точка входу в creative coding.
+- `p5.js`: web-версія Processing; виконується в браузері, є онлайн-редактор. Найпростіший старт.
 - `openFrameworks`: більш низькорівневий `C++` toolkit для інсталяцій, перформансу, камер, сенсорів, realtime систем.
-- `TouchDesigner`: node-based середовище для інтерактивних візуалів, перформансу, інсталяцій і realtime pipelines.
+- `TouchDesigner`: інтерактивне node-based середовище для realtime візуальних композицій, перформансу, інсталяцій.
 - `three.js`: коли потрібен web-based `3D`, сцени, камери, матеріали, WebGL/WebGPU-логіка.
-- `cables.gl`, `Hydra`, `Max/MSP/Jitter`, `Notch`, `Unity`: теж важлива частина екосистеми, але з іншими акцентами.
+- `Shadertone`: шейдери у браузері, робота із GPU.
 
 
 ---
@@ -251,8 +161,9 @@ image: /wolfram-cellular-automata.svg
 
 # JavaScript
 
-- `JavaScript` це мова, якою ми тут пишемо скетчі.
-- Нас цікавить не “вивчити всю мову”, а взяти мінімум, достатній для картинки, поведінки і правил.
+- `JavaScript` це мова, якою ми пишемо скетчі для p5js.
+- Наступні слайди містять мінімальний набір, необхідний для роботи з графікою, програмуванню поведінки і правил.
+- NB: це не вся мова.
 - У фокусі: змінні, типи даних, функції, цикли, умови.
 
 ---
@@ -403,29 +314,47 @@ let x = random(width)
 let y = random(height)
 ```
 
----
-
-
-# Ентропія і випадковість
-
-
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img src="/grid.png" alt="Grid" style="width: 30%; border-radius: 10px;" />
   <img src="/poisson.png" alt="Poisson" style="width: 30%; border-radius: 10px;" />
   <img src="/random.png" alt="Random" style="width: 30%; border-radius: 10px;" />
 </div>
 
+
 ---
 
+# Колір: RGB
 
-# Live-coding: 10 PRINT
+- `RGB` це модель кольору через `red`, `green`, `blue`.
+- У `p5.js` це дефолтний режим.
 
-- Простий приклад, де з сітки, циклів і випадковості народжується патерн.
-- На цій вправі добре видно, як правило + repetition + choice дають візуальну систему.
+```js
+stroke(255, 0, 0)
+fill(0, 120, 255)
+```
 
+---
 
-```vb
-10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+# Колір: HSB
+
+- `HSB` часто зручніший для generative art, бо відтінок, насиченість і яскравість розділені.
+- Це дає більш інтуїтивний контроль над палітрою.
+
+```js
+colorMode(HSB)
+stroke(200, 80, 90)
+```
+
+---
+
+# noise()
+
+- `noise()` дає не білий шум, а плавно змінне значення, де сусідні точки схожі одна на одну.
+- У `p5.js` це `Perlin noise`; також дивіться `Simplex noise`.
+- Це один із головних інструментів для органічного руху, текстур і полів.
+
+```js
+let n = noise(x * 0.01, y * 0.01)
 ```
 
 ---
@@ -435,18 +364,6 @@ let y = random(height)
 - Поле це спосіб описати поведінку простору: напрямок, силу, колір, щільність, деформацію.
 - Воно корисне як композиційна основа, бо дозволяє не розкладати рішення вручну по кожній точці.
 - Замість “малювати об’єкти” ми починаємо “конструювати середовище”.
-
----
-
-# noise()
-
-- `noise()` дає не білий шум, а плавно змінне значення, де сусідні точки схожі одна на одну.
-- У `p5.js` це `Perlin noise`; поруч у generative practice часто згадують і `Simplex noise`.
-- Це один із головних інструментів для органічного руху, текстур і полів.
-
-```js
-let n = noise(x * 0.01, y * 0.01)
-```
 
 ---
 
@@ -479,31 +396,7 @@ let y = cy + sin(angle) * radius
 
 ---
 
-# Колір: RGB
-
-- `RGB` це модель кольору через `red`, `green`, `blue`.
-- У `p5.js` це дефолтний режим.
-
-```js
-stroke(255, 0, 0)
-fill(0, 120, 255)
-```
-
----
-
-# Колір: HSB
-
-- `HSB` часто зручніший для generative art, бо відтінок, насиченість і яскравість розділені.
-- Це дає більш інтуїтивний контроль над палітрою.
-
-```js
-colorMode(HSB)
-stroke(200, 80, 90)
-```
-
----
-
-# Коли RGB недостатньо
+# Просунутий колір: коли RGB недостатньо
 
 - *RGB* погано відповідає тому, як ми сприймаємо різницю між кольорами.
 - Градієнти, інтерполяція в *RGB* часто дають брудні або нерівномірні переходи.
@@ -511,8 +404,107 @@ stroke(200, 80, 90)
 
 ![rgb vs oklab](./rgb_oklab_color_wheel.png)
 
+
+---
+layout: center
 ---
 
+# Приклади систем
+
+---
+
+# 10 PRINT. Проста система з одним правилом.
+
+- Простий приклад, де з правила, ритму та випадковості народжується патерн.
+
+
+```vb
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+```
+
+
+---
+layout: image-right
+image: /wolfram-cellular-automata.svg
+---
+# Cellular automata
+
+- [Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+- Простий приклад, як складна поведінка може виникати з дуже локальних правил.
+- Вперше описав Stephen Wolfram у книзі "A New Kind of Science" (2002).
+
+
+
+---
+
+# L-systems і рослини
+
+- `L-systems` (`Lindenmayer systems`) це формальна система правил для моделювання росту й розгалуження рослин.
+- Показують, як складна органічна форма може виростати з простого набору продукційних правил.
+- Przemyslaw Prusinkiewicz та Aristid Lindenmayer, "The Algorithmic Beauty of Plants" (1990)
+
+
+---
+
+# Від системи до авторської мови
+
+- Тут важлива лінія не “хто писав код”, а хто мислив через правило, серію, інструкцію, структуру і варіацію.
+- У сучасному generative art це вже збирається в зрілу авторську практику: довгі серії, впізнавана мова, концептуальна послідовність.
+
+---
+
+# Jared Tarbell
+
+- Один із ранніх авторів, які показали, що generative art може мати впізнавану авторську мову, а не бути просто технічною демонстрацією.
+- Працює з роями, потоками, міськими структурами, щільністю, поведінкою великої кількості елементів.
+- Важливий як приклад того, як системне мислення переходить у візуальну поетику.
+
+---
+
+# Tyler Hobbs
+
+[https://www.tylerxhobbs.com](https://www.tylerxhobbs.com)
+
+- Один із навідоміших сучасних генеративних митців із впізнаваним стилем
+- Працює переважно у long-form форматі.
+- Цікавий не тільки естетикою, а й дисципліною мислення: серія, параметричний простір, мова, що розвивається з проєкту в проєкт.
+- [Роботи](https://www.tylerxhobbs.com/works)
+
+
+---
+
+# Manolo Gamboa Naon (manoloide)
+
+
+- Поєднує щедру візуальність, живописність із системною логікою.
+
+- [Велика колекція робіт на behance](https://www.behance.net/manoloide)
+
+---
+
+# Kazumasa Teshigawara (qubibi)
+
+- [Роботи](https://www.qubibi.org/works)
+- Кінетична і алгоритмічна мова: прості елементи, з яких народжується складна, майже жива поведінка.
+- Важливий як приклад автора, у якого форма, рух і система зібрані в одну дуже цілісну практику.
+
+---
+
+# Ryoji Ikeda
+
+- Data-driven інсталяції та проєкції з дуже впізнаваною мовою.
+- Міксує звук, дані, зображення і простор, але при цьому лишається дуже строгим формально.
+
+
+---
+
+# Dmitri Cherniak
+
+- Один із найпереконливіших прикладів long-form generative practice, де серія працює як дослідження, а не як набір варіацій.
+- Сильний баланс між формальною строгістю, алгоритмічною ясністю і людською інтуїцією.
+- Добрий референс для розмови про те, як generative art може бути одночасно концептуальним, послідовним і дуже впізнаваним.
+
+---
 
 # Кого ще дивитись
 
@@ -521,6 +513,23 @@ stroke(200, 80, 90)
 - Sofia Crespo: дослідницька практика на перетині систем, природи, і спекулятивної біології.
 - Iskra Velitchkova (`ognyveli`): сильна абстрактна мисткиня із впізнаваною мовою, серійністю і розвинутим відчуттям структури.
 - Matt DesLauriers
+
+
+---
+
+# Що почитати
+
+
+- [www.lerandom.art](https://www.lerandom.art)
+- [www.rightslicksave.com](www.rightslicksave.com)
+
+
+## Книжки
+
+- Daniel Shiffman, "The Nature of Code"
+- Stephen Wolfram, "A New Kind of Science"
+- Przemyslaw Prusinkiewicz, Aristid Lindenmayer, "The Algorithmic Beauty of Plants"
+- Douglas Hofstadter, "Gödel, Escher, Bach"
 
 
 ---
